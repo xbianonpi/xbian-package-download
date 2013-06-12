@@ -1,0 +1,9 @@
+Origin: XBian
+Package: xbian-package-download
+Version: 3.0
+Section: web
+Priority: optional
+Architecture: armhf
+Depends: Depends: xbian-package-nzbget (>=10.2), xbian-package-transmission (>=2.76), xbian-package-headphones (>=1.1), xbian-package-sickbeard (>=1.2), xbian-package-couchpotato (>=2.0.7)
+Maintainer: sjengfred <sjengfred@home.nl>
+Description: Torrent + Newserver download managers. 
